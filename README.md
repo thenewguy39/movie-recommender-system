@@ -1,4 +1,4 @@
-# movie-recommender-system
+# Movie Recommender System
 A simple recommender system to provide movie recommendations to a user in the existing dataset.
 
 # Description
@@ -11,7 +11,7 @@ This program is built in Python 3.7 .It uses numpy,pandas,matplotlib & seaborn P
 
 # Datasets 
   ## movies.csv 
-This dataset consists of movieId,title & genres of all the movies available in the data.
+This dataset contains information(movieId,title,genres) about all of the movies available in the data.
   ## ratings.csv
-This dataset consists information(userId,movieId,rating,timestamp) about all of the user movie ratings.
+This dataset contains information(userId,movieId,rating,timestamp) about all of the user movie ratings in the data.
 
