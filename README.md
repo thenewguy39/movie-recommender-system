@@ -2,7 +2,7 @@
 A simple recommender system to provide movie recommendations to a user in the existing dataset.
 
 # Description
-This is a simple recommender system built to give movie recommendations for all the users in the available dataset.
+This is a simple recommender system built to generate movie recommendations for all the users in the available dataset.
 It uses Singular Value Decomposition by Stochastic Gradient Descent technique to predict ratings for all user-item pairs 
 and gives recommendations on the basis of this predicted data.
 
